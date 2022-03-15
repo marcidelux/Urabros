@@ -5,15 +5,15 @@ The main idea behind it is that there is a driver PC or MC what can start stop r
 A task is responsible for a well described process. Forexample: An uTask for vending machine: Give me two minerall water bottles.  
 The drier PC can get the actual status of the active tasks, so it can make decisions.  
 This repo holds the common framework related files, the configuration of Urabros and adding actual tasks are in thhe sub repositories.  
-At Templates directory you can find some empty task templates also some examples. Maybe the examples are a bit outdated, for better example search already implemented projects like the NPS V2: https://gitlab.com/mechatromotive/nps_v2/nps_v2_frimware/-/tree/main/NPS_V2/UrabrosProject  
+At Templates directory you can find some empty task templates also some examples. Maybe the examples are a bit outdated, for better example search already implemented projects like the NPS V2: 
 
 ## LINKS
-Documentation:      https://mechatromotive.gitlab.io/stm_alapproject/urabrosbase/  
-Presentation:       https://docs.google.com/presentation/d/11Pq8FH_6TniGk-a71UukzcWwtIFbn8kGXkAyz0OQdaM/edit?usp=sharing  
-Tester Software:    https://gitlab.com/mechatromotive/stm_alapproject/urabrospctester  
-Teaching Material:  https://drive.google.com/drive/folders/1AwxLzu131hiJ3a7aJf_DGWWKowJSSK9-  
-Git Strategy:       https://docs.google.com/document/d/1tIOLicInT9hC2rb7sQhW4ad07fyY0dUoD0kYspKARX4/edit?usp=sharing  
-Communication Prot: https://docs.google.com/spreadsheets/d/1sjbXCStGNmAyzVgaLzluoZ0xFO_BQsN3NFt43lmppz0/edit?usp=sharing  
+Documentation:     
+Presentation:        
+Tester Software:     
+Teaching Material: 
+Git Strategy:       
+Communication Prot:  
 
 ## Documentation.
 Documentation can be found here on gitlab, as a statically hosted webpage, it is already linked in section LINKS  
