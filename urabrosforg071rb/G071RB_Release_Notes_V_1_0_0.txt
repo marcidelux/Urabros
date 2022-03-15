@@ -1,0 +1,8 @@
+################################################################################
+Version: 		1.0.0
+Author: 		L.Marton
+New Features:	Initial version.
+Buf fixies:		- 
+Other:			Place new release notes above this one !.
+Date:           2021.05.22
+################################################################################

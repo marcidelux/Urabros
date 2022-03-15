@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['osthreaddef_44',['osThreadDef',['../d1/dc1/a00092.html#a9838fa6280a3c9eb794b59a63ea7318a',1,'osThreadDef(urabrosCommunication, urabrosCommunicationFunction, osPriorityAboveNormal, 1, configMINIMAL_STACK_SIZE *2):&#160;UrabrosMaster.c'],['../d1/dc1/a00092.html#a92bb3d10ed4f250966016baed3a2ca22',1,'osThreadDef(urabrosLogicControl, urabrosLogicControlFunction, osPriorityNormal, 1, configMINIMAL_STACK_SIZE *2):&#160;UrabrosMaster.c'],['../d1/dc1/a00092.html#ae25d60f6b48e88f82e3d116540ba9ab7',1,'osThreadDef(urabrosMessageSender, urabrosMessageSenderFunction, osPriorityAboveNormal, 1, configMINIMAL_STACK_SIZE *2):&#160;UrabrosMaster.c'],['../d1/d44/a00098.html#aa5ec83e83bccdeea6d2db35136120a91',1,'osThreadDef(testerThread, tester_thread_function, osPriorityNormal, 1, configMINIMAL_STACK_SIZE *1):&#160;testerTask.c']]]
+];

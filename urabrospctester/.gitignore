@@ -1,0 +1,7 @@
+__pycache__/*
+build/*
+main.spec
+.vscode/*
+logDebug.txt
+logMain.txt
+memory.txt

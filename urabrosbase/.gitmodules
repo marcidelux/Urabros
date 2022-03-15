@@ -1,0 +1,6 @@
+[submodule "urabrosforstm32h743zi2"]
+	path = urabrosforstm32h743zi2
+	url = https://gitlab.com/mechatromotive/stm_alapproject/urabrosforstm32h743zi2.git
+[submodule "urabrosforg071rb"]
+	path = urabrosforg071rb
+	url = https://gitlab.com/mechatromotive/stm_alapproject/urabrosforg071rb.git
